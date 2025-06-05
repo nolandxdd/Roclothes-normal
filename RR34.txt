@@ -6318,9 +6318,10 @@ function RoClothes(Player)
 		},
 		["BBC"] = {
 			["Weld"] = {
-				[1] = "BBC Rod",
-				[2] = "BBC Tip",
-				[3] = "BBC Balls",
+				[1] = "BBC",
+				[2] = "BBC Rod",
+				[3] = "BBC Tip",
+				[4] = "BBC Balls",
 			}
 		},
 		["Birdly Backpack"] = {
