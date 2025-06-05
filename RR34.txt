@@ -6326,6 +6326,7 @@ function RoClothes(Player)
 		},
 		["male"] = {
 			["weld"] = {
+				[1] = air
 			},
 			["Unvisible"] = {
 				"Left Nipple",
