@@ -6343,7 +6343,7 @@ function RoClothes(Player)
 				"Left Arm Mesh",
 				"Right Arm Mesh",
 				"Left Butt",
-				"Right Butt",
+				"Right Butt"
 			}
 		},
 		["Birdly Backpack"] = {
