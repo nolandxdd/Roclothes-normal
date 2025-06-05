@@ -6321,7 +6321,28 @@ function RoClothes(Player)
 				[1] = "BBC",
 				[2] = "BBC Rod",
 				[3] = "BBC Tip",
-				[4] = "BBC Balls",
+				[4] = "BBC Balls"
+			}
+		},
+		["male"] = {
+			["weld"] = {
+			},
+			["Unvisible"] = {
+				"Left Nipple",
+				"Right Nipple",
+				"Left Breast",
+				"Right Breast",
+				"Pussy Closed",
+				"Clitoris Closed",
+				"Vagina Closed",
+				"Vulva Closed",
+				"Torso Mesh",
+				"Left Leg Mesh",
+				"Right Leg Mesh",
+				"Left Arm Mesh",
+				"Right Arm Mesh",
+				"Left Butt",
+				"Right Butt",
 			}
 		},
 		["Birdly Backpack"] = {
