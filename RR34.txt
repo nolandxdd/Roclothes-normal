@@ -6316,6 +6316,13 @@ function RoClothes(Player)
 				"Right Nipple"
 			}
 		},
+		["BBC"] = {
+			["Weld"] = {
+				[1] = "BBC Rod",
+				[2] = "BBC Tip",
+				[3] = "BBC Balls",
+			}
+		},
 		["Birdly Backpack"] = {
 			["Weld"] = {
 				[1] = "Birdly Dress Sling",
