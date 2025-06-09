@@ -711,7 +711,7 @@ function RoClothes(Player)
 				["Name"] = "BBC Rod",
 				["MeshId"] = "rbxassetid://14437003062",
 				["Size"] = Vector3.new(0.565, 0.802, 1.98),
-				["CFrame"] = CFrame.new(-0.077, -0.082, 0.017, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame"] = CFrame.new(0, -0.082, 0.017, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["CFrame1"] = CFrame.new(0, -0.2, 0.7, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
@@ -730,7 +730,7 @@ function RoClothes(Player)
 				["Name"] = "BBC Tip",
 				["MeshId"] = "rbxassetid://14437018423",
 				["Size"] = Vector3.new(0.444, 0.313, 0.481),
-				["CFrame"] = CFrame.new(0.017, 0.283, -0.838, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame"] = CFrame.new(0, 0.283, -0.838, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
@@ -750,7 +750,7 @@ function RoClothes(Player)
 				["Name"] = "BBC Balls",
 				["MeshId"] = "rbxassetid://14436718311",
 				["Size"] = Vector3.new(1.036, 0.976, 0.592),
-				["CFrame"] = CFrame.new(0.002, -0.441, 0.652, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame"] = CFrame.new(0, -0.441, 0.652, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
